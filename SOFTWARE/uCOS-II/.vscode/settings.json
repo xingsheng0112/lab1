@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "TEST.C": "cpp",
+        "uCOS_II.C": "cpp",
+        "OS_TIME.C": "cpp",
+        "OS_TASK.C": "cpp",
+        "OS_CORE.C": "cpp",
+        "OS_SEM.C": "cpp",
+        "OS_MUTEX.C": "cpp"
+    }
+}
